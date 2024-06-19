@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    border: 2px solid #000;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+label, input {
+    display: block;
+    margin: 10px auto;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#gameArea {
+    margin-top: 20px;
+}
