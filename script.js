@@ -8,38 +8,43 @@ document.getElementById('playerForm').addEventListener('submit', function(event)
         });
 });
 
-document.getElementById('newGame').addEventListener('click', function() {
-    localStorage.removeItem('playerWord');
-    location.reload();
-});
-
 function startGame(numPlayers, wordPairs) {
     const selectedPair = wordPairs[Math.floor(Math.random() * wordPairs.length)];
     const words = Array(parseInt(numPlayers) - 1).fill(selectedPair.word1);
     words.splice(Math.floor(Math.random() * words.length), 0, selectedPair.word2);
-    
-    let playerId = prompt("Enter your player ID (from 1 to " + numPlayers + "):");
-    playerId = parseInt(playerId);
 
-    if (playerId > 0 && playerId <= numPlayers) {
-        const playerWord = words[playerId - 1];
-        localStorage.setItem('playerWord', playerWord);
-        displayWord(playerWord);
-    } else {
-        alert("Invalid player ID.");
+    const buttonsContainer = document.getElementById('buttonsContainer');
+    buttonsContainer.innerHTML = ''; // Clear previous buttons
+
+    for (let i = 0; i < numPlayers; i++) {
+        const playerId = i + 1;
+        const word = words[i];
+        const playerDiv = document.createElement('div');
+        playerDiv.classList.add('player');
+
+        const playerButton = document.createElement('button');
+        playerButton.textContent = `User ${playerId}: Show Word`;
+        playerButton.addEventListener('click', function() {
+            const wordDisplay = playerDiv.querySelector('.wordDisplay');
+            if (wordDisplay.style.display === 'none') {
+                wordDisplay.style.display = 'block';
+                playerButton.textContent = `User ${playerId}: Hide Word`;
+            } else {
+                wordDisplay.style.display = 'none';
+                playerButton.textContent = `User ${playerId}: Show Word`;
+            }
+        });
+
+        const wordDisplay = document.createElement('div');
+        wordDisplay.classList.add('wordDisplay');
+        wordDisplay.textContent = word;
+        wordDisplay.style.display = 'none';
+
+        playerDiv.appendChild(playerButton);
+        playerDiv.appendChild(wordDisplay);
+        buttonsContainer.appendChild(playerDiv);
     }
-}
 
-function displayWord(word) {
     document.getElementById('playerForm').style.display = 'none';
     document.getElementById('gameArea').style.display = 'block';
-    document.getElementById('wordDisplay').textContent = word;
-}
-
-// Check if there's a saved word in local storage
-const savedWord = localStorage.getItem('playerWord');
-if (savedWord) {
-    document.getElementById('playerForm').style.display = 'none';
-    document.getElementById('gameArea').style.display = 'block';
-    document.getElementById('wordDisplay').textContent = savedWord;
 }
