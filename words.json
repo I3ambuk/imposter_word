@@ -1,414 +1,422 @@
 [
   {
-    "word1": "Zahnarzt",
-    "word2": "Kieferorthopäde"
-  },
-  {
-    "word1": "Gefängnis",
-    "word2": "Polizeistation"
-  },
-  {
-    "word1": "Maler",
-    "word2": "Grafiker"
-  },
-  {
-    "word1": "Thermometer",
-    "word2": "Barometer"
-  },
-  {
-    "word1": "Hotel",
-    "word2": "Hostel"
-  },
-  {
-    "word1": "Gitarre",
-    "word2": "Ukulele"
-  },
-  {
-    "word1": "Wolf",
-    "word2": "Hund"
-  },
-  {
-    "word1": "Oper",
-    "word2": "Musical"
-  },
-  {
-    "word1": "Flughafen",
-    "word2": "Bahnhof"
-  },
-  {
-    "word1": "Erdbeere",
-    "word2": "Himbeere"
-  },
-  {
-    "word1": "Schach",
-    "word2": "Dame"
-  },
-  {
-    "word1": "Kanu",
-    "word2": "Kajak"
-  },
-  {
-    "word1": "Löwe",
-    "word2": "Tiger"
-  },
-  {
-    "word1": "Salat",
-    "word2": "Kraut"
-  },
-  {
-    "word1": "Theater",
-    "word2": "Kino"
-  },
-  {
-    "word1": "Roman",
-    "word2": "Kurzgeschichte"
+    "word1": "Berg",
+    "word2": "Fels"
   },
   {
     "word1": "Tee",
-    "word2": "Kaffee"
+    "word2": "Kräutertee"
   },
   {
-    "word1": "Berg",
-    "word2": "Hügel"
+    "word1": "Kino",
+    "word2": "Filmstudio"
   },
   {
-    "word1": "Auto",
-    "word2": "Motorrad"
+    "word1": "Stift",
+    "word2": "Marker"
   },
   {
-    "word1": "Bibliothek",
-    "word2": "Buchhandlung"
-  },
-  {
-    "word1": "Laptop",
-    "word2": "Tablet"
-  },
-  {
-    "word1": "Sofa",
-    "word2": "Sessel"
-  },
-  {
-    "word1": "Koch",
-    "word2": "Bäcker"
-  },
-  {
-    "word1": "Zeitung",
-    "word2": "Zeitschrift"
-  },
-  {
-    "word1": "LKW",
-    "word2": "Bus"
-  },
-  {
-    "word1": "Lehrer",
-    "word2": "Dozent"
-  },
-  {
-    "word1": "Kirsche",
-    "word2": "Pflaume"
-  },
-  {
-    "word1": "Museum",
-    "word2": "Galerie"
-  },
-  {
-    "word1": "Wüste",
-    "word2": "Savanne"
-  },
-  {
-    "word1": "Strand",
-    "word2": "Küste"
-  },
-  {
-    "word1": "Regen",
-    "word2": "Niesel"
-  },
-  {
-    "word1": "Kerze",
-    "word2": "Lampe"
-  },
-  {
-    "word1": "Brille",
-    "word2": "Sonnenbrille"
-  },
-  {
-    "word1": "Trompete",
-    "word2": "Posaune"
-  },
-  {
-    "word1": "Schnecke",
-    "word2": "Muschel"
-  },
-  {
-    "word1": "Pinsel",
-    "word2": "Feder"
-  },
-  {
-    "word1": "Bleistift",
-    "word2": "Kugelschreiber"
-  },
-  {
-    "word1": "Joghurt",
-    "word2": "Quark"
-  },
-  {
-    "word1": "Banane",
-    "word2": "Mango"
-  },
-  {
-    "word1": "Boot",
-    "word2": "Schiff"
-  },
-  {
-    "word1": "Schlüssel",
-    "word2": "Schloss"
-  },
-  {
-    "word1": "Fahrrad",
-    "word2": "Roller"
-  },
-  {
-    "word1": "Schnee",
-    "word2": "Hagel"
-  },
-  {
-    "word1": "Park",
-    "word2": "Garten"
-  },
-  {
-    "word1": "Zug",
-    "word2": "Straßenbahn"
-  },
-  {
-    "word1": "Küche",
-    "word2": "Kantine"
-  },
-  {
-    "word1": "Apfel",
-    "word2": "Birne"
-  },
-  {
-    "word1": "Schildkröte",
-    "word2": "Echse"
-  },
-  {
-    "word1": "Leiter",
-    "word2": "Treppe"
-  },
-  {
-    "word1": "Kamera",
-    "word2": "Fernglas"
-  },
-  {
-    "word1": "Bäckerei",
-    "word2": "Konditorei"
-  },
-  {
-    "word1": "Zebra",
-    "word2": "Pferd"
-  },
-  {
-    "word1": "Kaktus",
-    "word2": "Palme"
-  },
-  {
-    "word1": "Büro",
-    "word2": "Arbeitszimmer"
-  },
-  {
-    "word1": "Mond",
-    "word2": "Stern"
-  },
-  {
-    "word1": "Planet",
-    "word2": "Asteroid"
-  },
-  {
-    "word1": "Karte",
-    "word2": "Atlas"
-  },
-  {
-    "word1": "Kochbuch",
-    "word2": "Rezept"
-  },
-  {
-    "word1": "Taxi",
-    "word2": "Uber"
-  },
-  {
-    "word1": "Schere",
-    "word2": "Messer"
-  },
-  {
-    "word1": "Rucksack",
-    "word2": "Tasche"
-  },
-  {
-    "word1": "Jacke",
-    "word2": "Mantel"
-  },
-  {
-    "word1": "Bett",
-    "word2": "Sofa"
-  },
-  {
-    "word1": "Fernseher",
-    "word2": "Beamer"
-  },
-  {
-    "word1": "Radio",
-    "word2": "Podcast"
-  },
-  {
-    "word1": "Spinne",
-    "word2": "Skorpion"
-  },
-  {
-    "word1": "Seife",
-    "word2": "Shampoo"
-  },
-  {
-    "word1": "Kette",
-    "word2": "Armband"
-  },
-  {
-    "word1": "Spielplatz",
-    "word2": "Park"
-  },
-  {
-    "word1": "Feuer",
-    "word2": "Glut"
-  },
-  {
-    "word1": "Ziegel",
-    "word2": "Stein"
-  },
-  {
-    "word1": "Tankstelle",
-    "word2": "Raststätte"
-  },
-  {
-    "word1": "Keks",
-    "word2": "Muffin"
-  },
-  {
-    "word1": "Schlüssel",
-    "word2": "Karte"
-  },
-  {
-    "word1": "Schraube",
-    "word2": "Nagel"
-  },
-  {
-    "word1": "Fisch",
-    "word2": "Krabbe"
-  },
-  {
-    "word1": "Wald",
-    "word2": "Dschungel"
-  },
-  {
-    "word1": "Ameise",
-    "word2": "Biene"
-  },
-  {
-    "word1": "Melone",
-    "word2": "Kürbis"
-  },
-  {
-    "word1": "Katze",
-    "word2": "Luchs"
-  },
-  {
-    "word1": "Telefon",
-    "word2": "Handy"
-  },
-  {
-    "word1": "Frosch",
-    "word2": "Kröte"
-  },
-  {
-    "word1": "Pfanne",
-    "word2": "Topf"
-  },
-  {
-    "word1": "Schrank",
-    "word2": "Kommode"
-  },
-  {
-    "word1": "Mütze",
-    "word2": "Hut"
-  },
-  {
-    "word1": "Heizung",
-    "word2": "Kamin"
-  },
-  {
-    "word1": "Dusche",
-    "word2": "Badewanne"
-  },
-  {
-    "word1": "Spiegel",
-    "word2": "Fenster"
-  },
-  {
-    "word1": "Eis",
-    "word2": "Sorbet"
-  },
-  {
-    "word1": "Brücke",
-    "word2": "Tunnel"
-  },
-  {
-    "word1": "Kissen",
-    "word2": "Decke"
-  },
-  {
-    "word1": "Wecker",
-    "word2": "Uhr"
-  },
-  {
-    "word1": "Wippe",
-    "word2": "Schaukel"
-  },
-  {
-    "word1": "Besen",
-    "word2": "Staubsauger"
-  },
-  {
-    "word1": "Koffer",
-    "word2": "Rucksack"
-  },
-  {
-    "word1": "Fußball",
-    "word2": "Handball"
-  },
-  {
-    "word1": "Zaun",
-    "word2": "Mauer"
-  },
-  {
-    "word1": "Kran",
-    "word2": "Bagger"
-  },
-  {
-    "word1": "Höhle",
-    "word2": "Mine"
+    "word1": "Licht",
+    "word2": "Schein"
   },
   {
     "word1": "Wolke",
-    "word2": "Nebel"
+    "word2": "Dunst"
   },
   {
-    "word1": "Krone",
-    "word2": "Hut"
+    "word1": "Buch",
+    "word2": "Manuskript"
+  },
+  {
+    "word1": "Apfel",
+    "word2": "Apfelmus"
+  },
+  {
+    "word1": "Straße",
+    "word2": "Weg"
+  },
+  {
+    "word1": "Haus",
+    "word2": "Wohnung"
+  },
+  {
+    "word1": "Farbe",
+    "word2": "Lack"
+  },
+  {
+    "word1": "Ton",
+    "word2": "Klang"
+  },
+  {
+    "word1": "Bild",
+    "word2": "Gemälde"
+  },
+  {
+    "word1": "Teller",
+    "word2": "Schale"
+  },
+  {
+    "word1": "Glas",
+    "word2": "Becher"
+  },
+  {
+    "word1": "Pflanze",
+    "word2": "Blume"
+  },
+  {
+    "word1": "Vogel",
+    "word2": "Taube"
+  },
+  {
+    "word1": "Fluss",
+    "word2": "Bach"
+  },
+  {
+    "word1": "Karte",
+    "word2": "Skizze"
+  },
+  {
+    "word1": "Tisch",
+    "word2": "Schreibtisch"
+  },
+  {
+    "word1": "Feld",
+    "word2": "Wiese"
+  },
+  {
+    "word1": "Zug",
+    "word2": "Waggon"
+  },
+  {
+    "word1": "Auto",
+    "word2": "Kombi"
+  },
+  {
+    "word1": "Hemd",
+    "word2": "Bluse"
+  },
+  {
+    "word1": "Jacke",
+    "word2": "Windbreaker"
+  },
+  {
+    "word1": "Kabel",
+    "word2": "Leitung"
+  },
+  {
+    "word1": "Tasche",
+    "word2": "Beutel"
   },
   {
     "word1": "Lampe",
-    "word2": "Laterne"
+    "word2": "Spot"
   },
   {
-    "word1": "Kugel",
-    "word2": "Ball"
+    "word1": "Schuhe",
+    "word2": "Sneaker"
+  },
+  {
+    "word1": "Uhr",
+    "word2": "Chronograph"
+  },
+  {
+    "word1": "Bett",
+    "word2": "Liege"
+  },
+  {
+    "word1": "Kissen",
+    "word2": "Polster"
+  },
+  {
+    "word1": "Telefon",
+    "word2": "Festnetz"
+  },
+  {
+    "word1": "Stuhl",
+    "word2": "Hocker"
+  },
+  {
+    "word1": "Sessel",
+    "word2": "Relaxstuhl"
+  },
+  {
+    "word1": "Decke",
+    "word2": "Plaid"
+  },
+  {
+    "word1": "Licht",
+    "word2": "Lampe"
+  },
+  {
+    "word1": "Pfanne",
+    "word2": "Grillpfanne"
+  },
+  {
+    "word1": "Topf",
+    "word2": "Kochtopf"
+  },
+  {
+    "word1": "Fenster",
+    "word2": "Oberlicht"
+  },
+  {
+    "word1": "Spiegel",
+    "word2": "Rahmen"
+  },
+  {
+    "word1": "Keks",
+    "word2": "Biscuit"
+  },
+  {
+    "word1": "Brot",
+    "word2": "Toast"
+  },
+  {
+    "word1": "Milch",
+    "word2": "H-Milch"
+  },
+  {
+    "word1": "Wasser",
+    "word2": "Sprudel"
+  },
+  {
+    "word1": "Reis",
+    "word2": "Couscous"
+  },
+  {
+    "word1": "Käse",
+    "word2": "Feta"
+  },
+  {
+    "word1": "Butter",
+    "word2": "Margarine"
+  },
+  {
+    "word1": "Messer",
+    "word2": "Küchenmesser"
+  },
+  {
+    "word1": "Gabel",
+    "word2": "Dessertgabel"
+  },
+  {
+    "word1": "Löffel",
+    "word2": "Suppenlöffel"
+  },
+  {
+    "word1": "Zeitung",
+    "word2": "Newsletter"
+  },
+  {
+    "word1": "Lehrer",
+    "word2": "Tutor"
+  },
+  {
+    "word1": "Schüler",
+    "word2": "Azubi"
+  },
+  {
+    "word1": "Papier",
+    "word2": "Pappe"
+  },
+  {
+    "word1": "Buch",
+    "word2": "Heft"
+  },
+  {
+    "word1": "Straße",
+    "word2": "Allee"
+  },
+  {
+    "word1": "Mauer",
+    "word2": "Fassade"
+  },
+  {
+    "word1": "Fahrrad",
+    "word2": "Mountainbike"
+  },
+  {
+    "word1": "Roller",
+    "word2": "E-Scooter"
+  },
+  {
+    "word1": "Spiel",
+    "word2": "Puzzle"
+  },
+  {
+    "word1": "Ball",
+    "word2": "Spielball"
+  },
+  {
+    "word1": "Computer",
+    "word2": "Notebook"
+  },
+  {
+    "word1": "Fenster",
+    "word2": "Dachfenster"
+  },
+  {
+    "word1": "Tür",
+    "word2": "Tor"
+  },
+  {
+    "word1": "Stadt",
+    "word2": "Metropole"
+  },
+  {
+    "word1": "Dorf",
+    "word2": "Siedlung"
+  },
+  {
+    "word1": "Wald",
+    "word2": "Forst"
+  },
+  {
+    "word1": "Berg",
+    "word2": "Gebirge"
+  },
+  {
+    "word1": "Wasser",
+    "word2": "See"
+  },
+  {
+    "word1": "Sonne",
+    "word2": "Stern"
+  },
+  {
+    "word1": "Mond",
+    "word2": "Halbmond"
+  },
+  {
+    "word1": "Uhr",
+    "word2": "Armbanduhr"
+  },
+  {
+    "word1": "Licht",
+    "word2": "Scheinwerfer"
+  },
+  {
+    "word1": "Foto",
+    "word2": "Schnappschuss"
+  },
+  {
+    "word1": "Bildschirm",
+    "word2": "Monitor"
+  },
+  {
+    "word1": "Kamera",
+    "word2": "Webcam"
+  },
+  {
+    "word1": "Keks",
+    "word2": "Cracker"
+  },
+  {
+    "word1": "Kuchen",
+    "word2": "Torte"
+  },
+  {
+    "word1": "Fisch",
+    "word2": "Forelle"
+  },
+  {
+    "word1": "Vogel",
+    "word2": "Spatz"
+  },
+  {
+    "word1": "Baum",
+    "word2": "Strauch"
+  },
+  {
+    "word1": "Käfer",
+    "word2": "Marienkäfer"
+  },
+  {
+    "word1": "Insekt",
+    "word2": "Fliege"
+  },
+  {
+    "word1": "Tier",
+    "word2": "Säugetier"
+  },
+  {
+    "word1": "Schrift",
+    "word2": "Kalligrafie"
+  },
+  {
+    "word1": "Karte",
+    "word2": "Fahrkarte"
+  },
+  {
+    "word1": "Bahn",
+    "word2": "S-Bahn"
+  },
+  {
+    "word1": "Straße",
+    "word2": "Fahrbahn"
+  },
+  {
+    "word1": "Bus",
+    "word2": "Reisebus"
+  },
+  {
+    "word1": "Wagen",
+    "word2": "Kutsche"
+  },
+  {
+    "word1": "Essen",
+    "word2": "Mahlzeit"
+  },
+  {
+    "word1": "Trinken",
+    "word2": "Schluck"
+  },
+  {
+    "word1": "Musik",
+    "word2": "Lied"
+  },
+  {
+    "word1": "Lied",
+    "word2": "Melodie"
+  },
+  {
+    "word1": "Ton",
+    "word2": "Note"
+  },
+  {
+    "word1": "Heft",
+    "word2": "Notizbuch"
+  },
+  {
+    "word1": "Kuli",
+    "word2": "Fineliner"
+  },
+  {
+    "word1": "Ordner",
+    "word2": "Akte"
+  },
+  {
+    "word1": "Post",
+    "word2": "Brief"
+  },
+  {
+    "word1": "Brief",
+    "word2": "Karte"
+  },
+  {
+    "word1": "Paket",
+    "word2": "Päckchen"
+  },
+  {
+    "word1": "Handy",
+    "word2": "Smartphone"
+  },
+  {
+    "word1": "Tablet",
+    "word2": "iPad"
+  },
+  {
+    "word1": "Computer",
+    "word2": "PC"
   }
 ]
